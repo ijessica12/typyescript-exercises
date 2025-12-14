@@ -1,4 +1,8 @@
 # TypeScript Mental Model Practical UoK
+
+### The following code snippets have TypeScript errors. Fix the code without changing the core implementation of the functions until it compiles AND runs correctly (no any, no @ts-ignore allowed unless explicitly permitted). 
+
+
 ## Question 1:
 ```bash
 function greet(name) {
